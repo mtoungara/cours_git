@@ -28,3 +28,9 @@ git merge new-feature
 git push 
 
 git pull
+
+# Activate virtual env
+
+python3 -m venv venv
+
+source venv/bin/activate
