@@ -28,6 +28,7 @@ git checkout another-branch
 
 # Merge new-feature branch into main
 git checkout main
+
 git merge new-feature
 
 # Update
