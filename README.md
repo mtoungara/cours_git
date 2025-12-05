@@ -5,6 +5,12 @@ git clone https://github.com/mtoungara/cours_git.git
 # Create a new local repo
 git init my-new-repo
 
+# git config
+
+git config --global user.name "Your Name"
+
+git config --global user.email "your.email@example.com"
+
 # Check status of changes in repo
 git status 
 
